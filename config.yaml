@@ -1,3 +1,4 @@
 baseURL: http://acme.johnackley.com
 languageCode: en-us
 title: ACME Corp
+theme: github.com/hugoinaction/Eclectic
